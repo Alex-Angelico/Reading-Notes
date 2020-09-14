@@ -9,3 +9,5 @@ to do the same.
 - Embracing failure and learning from it
 - Supporting others in their pursuits
 - Reaching outside your comfort zone to overcome challenges
+
+![Having a Growth Mindset can help you succeed in the harshest of environments!](https://upload.wikimedia.org/wikipedia/commons/a/a9/PIA23791-Venus-NewlyProcessedView-20200608.jpg)
