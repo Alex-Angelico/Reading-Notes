@@ -1,2 +1,2 @@
-# reading-notes
-Notes for Code 102
+# Cultivating a Growth Mindset
+==============================
