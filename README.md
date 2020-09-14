@@ -1,6 +1,4 @@
-Hello! My name is Alex Angelico. I've been a digital marketer and copywriter for several years, and now I'm working on becoming a software developer at Code Fellows.
-
-Check out my [GitHub portfolio](https://github.com/Alex-Angelico).
+Hello! I'm Alex. You can learn more about me [here](introduction.md).
 
 # Cultivating a Growth Mindset
 
