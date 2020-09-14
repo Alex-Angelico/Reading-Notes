@@ -1,11 +1,12 @@
 Hello! I'm Alex. You can learn more about me [here](introduction.md).
 
 # Cultivating a Growth Mindset
-
-## Defining Growth Mindset
 The growth mindset is something that everybody is capable of obtaining. It is a set of habits and attitudes to
 learning and doing things which will allow you develop entirely new aspects of yourself, while helping others
-to do the same. The fundamental priciples are:
+to do the same.
+
+## Defining Growth Mindset
+The fundamental priciples of growth mindset are:
 - _Opening_ up to your own potential
 - _Embracing_ failure and learning from it
 - _Supporting_ others in their pursuits
