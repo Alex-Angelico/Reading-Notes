@@ -1,8 +1,8 @@
 Hello! I'm Alex. You can learn more about me [here](introduction.md).
 
 # Table of Contents for Readings
-[Class 1](Class_1_Readings.md)
-[Class 2](Class_2_Readings.md)
+[Class 1](Class_1_Readings.md)  
+[Class 2](Class_2_Readings.md)  
 [Class 3]
 [Class 4]
 [Class 5]
