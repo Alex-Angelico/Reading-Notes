@@ -3,16 +3,16 @@ Hello! I'm Alex. You can learn more about me [here](introduction.md).
 # Table of Contents for Readings
 [Class 1](Class_1_Readings.md)  
 [Class 2](Class_2_Readings.md)  
-[Class 3]
-[Class 4]
-[Class 5]
+[Class 3]  
+[Class 4]  
+[Class 5]  
 
 # Table of Contents for Reviews
-[Class 1](Class_1_Review.md)
-[Class 2](Class_2_Review.md)
-[Class 3]
-[Class 4]
-[Class 5]
+[Class 1](Class_1_Review.md)  
+[Class 2](Class_2_Review.md)  
+[Class 3]  
+[Class 4]  
+[Class 5]  
 
 # Cultivating a Growth Mindset
 The growth mindset is something that everybody is capable of obtaining. It is a set of habits and attitudes to
