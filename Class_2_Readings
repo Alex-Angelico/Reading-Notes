@@ -32,3 +32,7 @@ and organize code all in one system.
 - **pwd**: "Print Working Directory" - shows you what directory you're currently running Terminal in
 - **ls**: "List" - displays file and directory objects in your working directory (can be appended "ls -a" to include hidden objects)
 - **cd**: "Change Directory" - moves the Terminal instance to another working directory using a specified path
+  - **cd /**: Navigates to the root directory
+  - **cd** OR **cd ~**: Navigates to the home directory
+  - **cd ..**: Navigates up one directory level
+  - **cd -**: Navigates to the previous directory
