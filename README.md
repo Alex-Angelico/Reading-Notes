@@ -4,7 +4,7 @@ Hello! I'm Alex. You can learn more about me [here](introduction.md).
 [Class 1: Growth Mindset](class-1-readings.md)  
 [Class 2: Text Editors](class-2-readings.md)  
 [Class 3: Revisions to the Cloud](class-3-readings.md)  
-[Class 4]  
+[Class 4: Test](class-4-readings)  
 [Class 5]  
 
 ## Table of Contents for Reviews
