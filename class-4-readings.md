@@ -1,11 +1,13 @@
 # Class 4: Structuring Web Pages With HTML
 
 ## Chapter 18
+
 The fundamental utility of HTML for creating the underlying structure of modern webpages is deeply important to determining how successful a website is at attracting the users it was built to serve, retaining their interest once they arrive, and keeping them coming back in the future--however frequently or infrequently they may need to.
 
 Although the elements of HTML which are critical to creating a page's structure are relatively simple in nature, they can be used in complex ways to create diverse structural designs which are attractive to all kinds of different users. For this reason, it is important for web developers to have a good understanding of who their users are for the site they are designing.
 
 While it isn't feasible to create a website that has perfect appeal to the full set of intended users. A few practices can go a long way to making the site very appealing to the majority of intended users:
+
 - Articulating why people come to the site, what they do when they are on it, and how often they come.
 - Creating fictitious model users as examples of how one would expect different types of people to behave on different pages.
 - Establishing a site map that organizes pages and groups of pages by relevancy to each other.
@@ -15,9 +17,11 @@ With regards to the third practice in particular, it is also necessary to build 
 Lastly, with these elements of structure established, they can be used to amplify design choice concerning size, color, style, and grouping of various content elements on a page in ways that reflect information priority to users. This will make the experience seamless, and users more likely to return.
 
 ## Chapter 1
+
 HTML provides structure to webpages in the same way that formatting does to documents written in word processors, and assorted print elements do to newspapers. In other words, HTML is primarily concerned with ensuring overall legibility of information presented on a webpage to its users. This is managed through numerous kinds of tags which demarcate text and images into discreet groups. These tags can further be customized with attributes that make them more versatile.
 
 ## Chapter 17
+
 The newest version of HTML, HTML5, clarifies the purpose of some existing HTML elements while also introducing new ones, which are collectively easier for developers to use, while providing better structural design to web pages.
 
 HTML Element | Strucutral Purpose
@@ -35,6 +39,7 @@ HTML Element | Strucutral Purpose
 &lt;a&gt; | Used to convert a block element and child elements into a link.
 
 ## Chapter 8
+
 Further elements of HTML code provide both essential and more nuanced control of site functionality and presentation.
 
 HTML Element | Strucutral Purpose
