@@ -2,7 +2,6 @@
 
 ## Principles of Version Control
 In brief, version control is a cpncept that allows software developers--or creators of any kind, in theory--catalog and revisit a history of iterative versions of a given file. This allows modifications to be tracked and compared, and reverted if necessary. The standard approach to version control has evolved over the years, per the sequence below:  
-  
     1. **Local Version Control**  
        Consists of a single database on a local storage drive that stores file changes.  
     2. **Centralized Version Control**  
