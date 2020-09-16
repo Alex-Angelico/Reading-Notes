@@ -8,10 +8,11 @@ A CSS rule consists of two components:
 
 - **Selector:** Used for selecting what element of HTML a CSS rule applies to. Multiple HTML elements can be selected by a single rule by separating them by a comma.
 - **Declaration:** Provides the instructions for how the selected elements should be styled, as indicated by curly brackets. A declaration is itself made up of two components:
+
     - _Property:_ Denotes the part of the element to be changed by a rule. Multiple properties can be targeted in a single declaration.
     - _Value:_ Imparts the specific settings desired for a property, which either follow a set pattern, or are preset.
 
-    #### Examples of CSS rules
+    ##### Examples of CSS rules
     - header, p {  
         font-family: Arial;  
     }  
@@ -23,3 +24,14 @@ A CSS rule consists of two components:
     }  
 
 Although CSS rules can be internal to a HTML file using the &lt;style&gt; HTML element within the &lt;head&gt; element on a page, it is considered best practice to create external CSS files to ensure appropriate scope of responsibility and separation of concerns. An external CSS file is connected to its corresponding HTML file using the element &lt;link&gt; with the attributes 'href', 'type', and 'rel'.
+
+#### Standard composition of HTML &lt;link&gt; element:
+&lt;link href="css/styles.css" type="text/css" rel="stylesheet" /&gt;
+
+There are three reasons using an external CSS file is considered best practice:
+
+    - Clearer organization for developers when shifting between editing HTML and CSS.
+    - Faster page loading for users due to the fact that all relevant CSS can be loaded from a single file rather than repeatedly on every web page that uses it.
+    - Ease of implementing style changes across multiple pages that refer to a common CSS file.
+
+    
