@@ -1,6 +1,6 @@
 # Class 4: Structuring Web Pages With HTML
 
-## Chapter 18
+## Chapter 18 of HTML/CSS
 
 The fundamental utility of HTML for creating the underlying structure of modern webpages is deeply important to determining how successful a website is at attracting the users it was built to serve, retaining their interest once they arrive, and keeping them coming back in the future--however frequently or infrequently they may need to.
 
@@ -16,11 +16,11 @@ With regards to the third practice in particular, it is also necessary to build 
 
 Lastly, with these elements of structure established, they can be used to amplify design choice concerning size, color, style, and grouping of various content elements on a page in ways that reflect information priority to users. This will make the experience seamless, and users more likely to return.
 
-## Chapter 1
+## Chapter 1 of HTML/CSS
 
 HTML provides structure to webpages in the same way that formatting does to documents written in word processors, and assorted print elements do to newspapers. In other words, HTML is primarily concerned with ensuring overall legibility of information presented on a webpage to its users. This is managed through numerous kinds of tags which demarcate text and images into discreet groups. These tags can further be customized with attributes that make them more versatile.
 
-## Chapter 17
+## Chapter 17 of HTML/CSS
 
 The newest version of HTML, HTML5, clarifies the purpose of some existing HTML elements while also introducing new ones, which are collectively easier for developers to use, while providing better structural design to web pages.
 
@@ -38,7 +38,7 @@ HTML Element | Strucutral Purpose
 &lt;div&gt; | A container that is used where no other suitable element (mainly &lt;section&gt; or &lt;article&gt;) exists to contain a group of sub-elements.
 &lt;a&gt; | Used to convert a block element and child elements into a link.
 
-## Chapter 8
+## Chapter 8 of HTML/CSS
 
 Further elements of HTML code provide both essential and more nuanced control of site functionality and presentation.
 

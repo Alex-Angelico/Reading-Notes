@@ -1,6 +1,6 @@
 # Class 5: Designing Web Pages with CSS
 
-## Chapter 10
+## Chapter 10 of HTML/CSS
 
 CSS, which stands for Cascading Style Sheets, provides an easy framework for applying stylistic rules to the different structural elements of a HTML-rendered website.
 
@@ -20,7 +20,7 @@ Examples of CSS rules:
 
 Although CSS rules can be internal to a HTML file using the `<style>` HTML element within the `<head>` element on a page, it is considered best practice to create external CSS files to ensure appropriate scope of responsibility and separation of concerns. An external CSS file is connected to its corresponding HTML file using the element `<link>` with the attributes `href`, `type`, and `rel`.
 
-_Standard composition of HTML &lt;link&gt; element:_
+_Standard composition of HTML `<link>` element for CSS file reference:_
 `<link href="css/styles.css" type="text/css" rel="stylesheet" />`
 
 There are three reasons using an external CSS file is considered best practice:
@@ -31,7 +31,7 @@ There are three reasons using an external CSS file is considered best practice:
 
 Within a CSS file, the principles of cascade, selectors, and inheritance all determine how declarations in individual CSS rules can apply to multiple elements within a HTML file, depending on how they are related.
 
-## Chapter 11
+## Chapter 11 of HTML/CSS
 
 One of the basic and most versatile building blocks of CSS is color. The two most common color properties in CSS are:
 
