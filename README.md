@@ -17,3 +17,4 @@ Hello! I'm Alex. You can learn more about me [here](introduction.md).
 [Class 5: Designing Web Pages with CSS](class-5-readings.md)  
 [Class 6: Dynamic Web Pages with JavaScript](class-6-readings.md)  
 [Class 7: Programming with JavaScript](class-7-readings.md)  
+[Class 8: Operators and Loops](class-8-readings.md)  
