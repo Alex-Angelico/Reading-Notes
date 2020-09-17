@@ -31,6 +31,32 @@ There are three reasons using an external CSS file is considered best practice:
 
 Within a CSS file, the principles of cascade, selectors, and inheritance all determine how declarations in individual CSS rules can apply to multiple elements within a HTML file, depending on how they are related.
 
+### Cascade Rules
+
+There are two prevailing rules for how cascading style are applied in CSS:
+
+- **Last Rule:** In cases where a CSS file contains two or more identical selectors, the last selector (i.e. the one nearest the bottom of the file) and its attendant declaration takes precedence.
+- **Specificity:** If one selector is more specific than another (i.e. targets a more nuanced configuration of HTML elements within the HTML file), the former takes precedence over the latter, _regardless of their absolute positions in the CSS file._
+
+Additionally, the value modifier `!important`, including a preceding space, can be appended to any property value in a selector declaration to indicate that it should take precedence over other rules that apply to the same element.
+
+### Selectors
+
+Type | Meaning
+---- | -------
+`* {}` (universal) | All elements
+`h1, h2, h3 {}` (type) | Elements of indicated type(s)
+`.note {}`, `p.note {}` (class) | Groups of elements with the appended `.class` label
+`#introduction` (id) | Single elements with the appended `#id` label
+`li>a {}` (child) | Elements that are the child of the parent element type
+`p a {}` (descendant) | Direct descendant of a specified element type, not just a child
+`h1+p {}` (adjacent sibling) | Next sibling element of a specified initial element type
+`h1~p {}` (general sibling) | Matches multiple siblings, not just the one directly suceeding the specified initial element type
+
+### Inheritance
+
+Many CSS rules are automatically implictly inherited by child HTML elements if the rule's selector has any. This allows for streamlined rules via the elimination of repetition. Other rules are not inherited by default, but can be made to be inherited by child elements by using the value `inherit` for the desired property.
+
 ## Chapter 11 of HTML/CSS
 
 One of the basic and most versatile building blocks of CSS is color. The two most common color properties in CSS are:

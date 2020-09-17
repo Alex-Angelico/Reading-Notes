@@ -20,12 +20,14 @@ Expressions and operators are a basic mechanism of all programming languages, no
 ### Expressions
 
 There are two types of expressions:
+
 - Direct assignment of a value to a variable (e.g. `var a = 2;`)
 - Computational assignment of two or more values to a variable (e.g. `var b = 3 * 2;`)
 
 ### Operators
 
 There are several major classes of operators:
+
 - Assignment (e.g. `=`)
 - Arithmetic (e.g. `+`, `-`, `*`, `/`, `%`)
 - String (e.g. `+`)
