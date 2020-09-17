@@ -18,7 +18,7 @@ Examples of CSS rules:
 - `article {background color: green; border: solid, white, 3px;}`
 - `body {color: white;}`
 
-Although CSS rules can be internal to a HTML file using the `<style>` HTML element within the `<head>` element on a page, it is considered best practice to create external CSS files to ensure appropriate scope of responsibility and separation of concerns. An external CSS file is connected to its corresponding HTML file using the element `<link` with the attributes `href`, `type`, and `rel`.
+Although CSS rules can be internal to a HTML file using the `<style>` HTML element within the `<head>` element on a page, it is considered best practice to create external CSS files to ensure appropriate scope of responsibility and separation of concerns. An external CSS file is connected to its corresponding HTML file using the element `<link>` with the attributes `href`, `type`, and `rel`.
 
 _Standard composition of HTML &lt;link&gt; element:_
 `<link href="css/styles.css" type="text/css" rel="stylesheet" />`
