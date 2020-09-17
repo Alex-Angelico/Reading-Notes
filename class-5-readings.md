@@ -12,10 +12,11 @@ A CSS rule consists of two components:
 - _Property:_ Denotes the part of the element to be changed by a rule. Multiple properties can be targeted in a single declaration.
 - _Value:_ Imparts the specific settings desired for a property, which either follow a set pattern, or are preset.
 
-_Examples of CSS rules_
-    - `header, p {font-family: Arial;  }`
-    - `article {background color: green; border: solid, white, 3px;}`
-    - `body {color: white;}`
+Examples of CSS rules:
+
+- `header, p {font-family: Arial;  }`
+- `article {background color: green; border: solid, white, 3px;}`
+- `body {color: white;}`
 
 Although CSS rules can be internal to a HTML file using the `<style>` HTML element within the `<head>` element on a page, it is considered best practice to create external CSS files to ensure appropriate scope of responsibility and separation of concerns. An external CSS file is connected to its corresponding HTML file using the element `<link` with the attributes `href`, `type`, and `rel`.
 
@@ -24,9 +25,9 @@ _Standard composition of HTML &lt;link&gt; element:_
 
 There are three reasons using an external CSS file is considered best practice:
 
-    - Clearer organization for developers when shifting between editing HTML and CSS.
-    - Faster page loading for users due to the fact that all relevant CSS can be loaded from a single file rather than repeatedly on every web page that uses it.
-    - Ease of implementing style changes across multiple pages that refer to a common CSS file.
+- Clearer organization for developers when shifting between editing HTML and CSS.
+- Faster page loading for users due to the fact that all relevant CSS can be loaded from a single file rather than repeatedly on every web page that uses it.
+- Ease of implementing style changes across multiple pages that refer to a common CSS file.
 
 Within a CSS file, the principles of cascade, selectors, and inheritance all determine how declarations in individual CSS rules can apply to multiple elements within a HTML file, depending on how they are related.
 
