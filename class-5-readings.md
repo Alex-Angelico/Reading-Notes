@@ -9,8 +9,8 @@ A CSS rule consists of two components:
 - **Selector:** Used for selecting what element of HTML a CSS rule applies to. Multiple HTML elements can be selected by a single rule by separating them by a comma.
 - **Declaration:** Provides the instructions for how the selected elements should be styled, as indicated by curly brackets. A declaration is itself made up of two components:
 
-- _Property:_ Denotes the part of the element to be changed by a rule. Multiple properties can be targeted in a single declaration.
-- _Value:_ Imparts the specific settings desired for a property, which either follow a set pattern, or are preset.
+  - _Property:_ Denotes the part of the element to be changed by a rule. Multiple properties can be targeted in a single declaration.
+  - _Value:_ Imparts the specific settings desired for a property, which either follow a set pattern, or are preset.
 
 Examples of CSS rules:
 
