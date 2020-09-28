@@ -5,6 +5,7 @@ Hello! I'm Alex. You can learn more about me [here](introduction.md).
 This is a repository for all of the notes I have written for my software developer certification program at Code Fellows, organized by course level and day.
 
 The main programming laguages covered by the certification and within my notes are:
+
 - **HTML:** (HyperText Markup Language) The fundamental language utilized to build websites.
 - **CSS:** (Cascading Style Sheets) A language which provides a wide array of tools for customizing the visual presentation of HTML-rendered web pages.
 - **JavaScript:** Highly adaptive language that facilitates dynamic user interaction with pages.
