@@ -42,7 +42,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [Reading 9: Forms and Events](201-reading-9.md)  
 [Reading 10: JS Debugging](201-reading-10.md)  
 [Reading 11: Assorted Topics](201-reading-11.md)  
-[Reading 12: Docs for the HTML <canvas> Element & Chart.js](201-reading-12.md)  
+[Reading 12: Docs for the HTML \<canvas\> Element & Chart.js](201-reading-12.md)  
 [Reading 13: Local Storage](201-reading-13.md)  
 [Reading 14: CSS Transforms, Transitions, and Animations](201-reading-14.md)  
 [Reading 15: What Google Learned About Teams](201-reading-15.md)  
