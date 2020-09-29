@@ -13,7 +13,7 @@ The core feature of scripts is that they are programmatic. This means they are e
 
 With that in mind, it is equally important for a software developer to have concrete goals for scripts they are writing before they start. This will help make their design clearer and less likely to cause errors due to ambiguity.
 
-## Chapter 2 part 3 of JavaScript/jQuery
+## Chapter 2 Part 3 of JavaScript/jQuery
 
 Expressions and operators are a basic mechanism of all programming languages, not just JS.
 
@@ -38,7 +38,7 @@ Arithmetic operators follow the standard mathematical order of operations.
 
 There is only one string operator. `+` is used for concactenation.
 
-## Chapter 3 part 1 of JavaScript/jQuery
+## Chapter 3 Part 1 of JavaScript/jQuery
 
 Functions are one of the most important building blocks of effective scripts in JS. By combining a series of statements into a cohesive coding block, they allow a script file to perform useful dynamic actions on a web page such as requesting user input and manipulating data. The code block can then be called as many times as possible throughout the script just by invoking the function's name.
 

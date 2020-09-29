@@ -1,6 +1,6 @@
 # Class 6: Dynamic Web Pages with JavaScript
 
-## Chapters 1c and 2 part 1 of JavaScript/jQuery
+## Chapters 1c and 2 Part 1 of JavaScript/jQuery
 
 If HTML is the skeleton of a website, and CSS its skin along with other external features, JavaScript (JS) is the muscle that allows a website and its constituent pages to act dynamically and interact with users. Together, these three langauges are the pillars of building a modern website. HTML, CSS, and JS can alternatively be thought of as the content layer, presentation layer, and behavior layer, respectively.
 
@@ -16,5 +16,5 @@ JS that provides dyanmic presentation outputs on a webpage will generate them in
 There are three reasons using an external JS file is considered best practice:
 
 - Clearer organization for developers when shifting between editing HTML and JS.
-- Faster page loading for users due to the fact that all relevant CJSSS can be loaded from a single file rather than repeatedly on every web page that uses it.
+- Faster page loading for users due to the fact that all relevant JS can be loaded from a single file rather than repeatedly on every web page that uses it.
 - Ease of implementing dynamic function changes across multiple pages that refer to a common JS file.
