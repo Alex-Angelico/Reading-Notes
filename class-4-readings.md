@@ -6,7 +6,7 @@ The fundamental utility of HTML for creating the underlying structure of modern 
 
 Although the elements of HTML which are critical to creating a page's structure are relatively simple in nature, they can be used in complex ways to create diverse structural designs which are attractive to all kinds of different users. For this reason, it is important for web developers to have a good understanding of who their users are for the site they are designing.
 
-While it isn't feasible to create a website that has perfect appeal to the full set of intended users. A few practices can go a long way to making the site very appealing to the majority of intended users:
+While it isn't feasible to create a website that has perfect appeal to the full set of intended users, a design few practices can go a long way to making the site very appealing to the majority of intended users:
 
 - Articulating why people come to the site, what they do when they are on it, and how often they come.
 - Creating fictitious model users as examples of how one would expect different types of people to behave on different pages.
