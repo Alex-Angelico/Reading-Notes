@@ -9,7 +9,7 @@
 
 _Tip: Relative directory paths for linking to different pages on a large website, and the notation '..' refers to the directory above the active one (e.g. '../../index.html)._
 
-### Other `<a>` Features
+### Other \<a\> Features
 
 - `mailto:` can be used to prompt the creation of a new email to a specific address (e.g. `<a href="mailto:jon@example.org">Email Jon</a>`).
 - `target="_blank"` can be used to open a link in a new window (e.g. `<a href="https://www.imdb.com" target="_blank">`).
