@@ -1,6 +1,6 @@
 # Reading 5: HTML Images, CSS Color & Text
 
-## CHapter 5 of HTML/CSS
+## Chapter 5 of HTML/CSS
 
 Images can be modified in many ways using CSS for resizing, repositioning, and editing how exactly their graphical content appears. This being the case, there are three important rules to remember when creating images.
 
