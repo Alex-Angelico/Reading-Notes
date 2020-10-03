@@ -18,6 +18,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 ### General Topics
 
 [Computer Architecture and Logic](computer-architecture-logic.md)  
+[CSS Diner Completion Documentation](https://imgur.com/mSssECN)  
 
 ### Code 102 Reading Notes
 
