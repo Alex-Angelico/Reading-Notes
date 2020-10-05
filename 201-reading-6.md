@@ -42,7 +42,7 @@ var = musicLibrary = {
 
 _Note: In the above example, the keyword `this` is used to denote that the method is checking the `albumNumber` and `artists` properties for this specific obkect.
 
-## Performing Operations With An Object
+### Performing Operations With An Object
 
 An object's properties and  methods are most commonly accessed and executed using dot notation, e.g. `musicLibrary.checkLibrarySize;`. The dot between the object and its method is called a member operator, referring to the fact that properties and methods are members of objects.
 
