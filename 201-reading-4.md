@@ -15,7 +15,7 @@ _Tip: Relative directory paths for linking to different pages on a large website
 - `target="_blank"` can be used to open a link in a new window (e.g. `<a href="https://www.imdb.com" target="_blank">`).
 - `<a href=id>` can be used to link to a specific part of the same page, or a different page, by pointing to a HTML element with an id attribute.
 
-## Chapter 15 of HTML/CSS
+## Chapter 15 Selection of HTML/CSS
 
 ### The Conceptual Basis of Positioning HTML Elements
 
