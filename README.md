@@ -20,7 +20,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [Computer Architecture and Logic](computer-architecture-logic.md)  
 [CSS Diner Completion Documentation](https://imgur.com/mSssECN)  
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 [Class 1: Growth Mindset](class-1-readings.md)  
 [Class 2: Text Editors](class-2-readings.md)  
@@ -31,7 +31,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [Class 7: Programming with JavaScript](class-7-readings.md)  
 [Class 8: Operators and Loops](class-8-readings.md)  
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 [Reading 1: Introductory HTML and JavaScript](201-reading-1.md)  
 [Reading 2: HTML Text, CSS Introduction, Basic JS Instructions](201-reading-2.md)  
@@ -48,3 +48,9 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [Reading 13: Local Storage](201-reading-13.md)  
 [Reading 14: CSS Transforms, Transitions, and Animations](201-reading-14.md)  
 [Reading 15: What Google Learned About Teams](201-reading-15.md)  
+
+### Code 301 - Intermediate Software Development
+
+
+
+### Code 401 - Advanced Software Development
