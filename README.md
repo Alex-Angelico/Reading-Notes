@@ -51,6 +51,20 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 
 ### Code 301 - Intermediate Software Development
 
-
+[Read: 01 - SMACSS and Responsive Web Design](301-1.md)  
+[Read: 02 - jQuery, Events, and The DOM](301-2.md)  
+[Read: 03 - Flexbox and Templating](301-3.md)  
+[Read: 04 - Responsive Web Design and Regular Expressions](301-4.md)  
+[Read: 05 - Heroku Deployment](301-5.md)  
+[Read: 06 - Node, Express, and APIs](301-6.md)  
+[Read: 07 - APIs continued](301-7.md)  
+[Read: 08 - SQL](301-8.md)  
+[Read: 09 - Refactoring](301-9.md)  
+[Read: 10 - The Call Stack and Debugging](301-10.md)  
+[Read: 11 - EJS](301-11.md)  
+[Read: 12 - Components](301-12.md)  
+[Read: 13 - Update/Delete](301-13.md)  
+[Read: 14 - DB Normalization](301-14.md)  
+[Read: 15 - Diversity and Inclusion](301-15.md)
 
 ### Code 401 - Advanced Software Development
