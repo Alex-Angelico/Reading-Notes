@@ -57,7 +57,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [Read: 04 - Responsive Web Design and Regular Expressions](301-4.md)  
 [Read: 05 - Heroku Deployment](301-5.md)  
 [Read: 06 - Node, Express, and APIs](301-6.md)  
-[Read: 07 - APIs continued](301-7.md)  
+[Read: 07 - APIs Continued](301-7.md)  
 [Read: 08 - SQL](301-8.md)  
 [Read: 09 - Refactoring](301-9.md)  
 [Read: 10 - The Call Stack and Debugging](301-10.md)  
