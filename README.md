@@ -67,7 +67,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [Read: 14 - DB Normalization](301-14.md)  
 [Read: 15 - Diversity and Inclusion](301-15.md)
 
-### Code 401 - Advanced Software Development
+### Code 401 - Advanced Software Development (Python)
 
 [1 - Pain and Suffering, and Big O Notation](401-1.md)  
 [](401-2.md)  
