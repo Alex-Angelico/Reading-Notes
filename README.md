@@ -72,7 +72,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [1 - Pain and Suffering, and Big O Notation](401-1.md)  
 [2 - Testing and Modules](401-2.md)  
 [3 - File I/O & Exceptions](401-3.md)  
-[](401-4.md)  
+[4 - Classes & Objects, Recursion, and Pytest Fixtures & Coverage](401-4.md)  
 [](401-5.md)  
 [](401-6.md)  
 [](401-7.md)  
