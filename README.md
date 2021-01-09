@@ -76,7 +76,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [5 - Linked Lists](401-5.md)  
 [6 - Game of Greed 1](401-6.md)  
 [7 - Game of Greed 2](401-7.md)  
-[](401-8.md)  
+[8 - Game of Greed 3](401-8.md)  
 [](401-9.md)  
 [](401-10.md)  
 [](401-11.md)  
