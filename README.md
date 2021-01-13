@@ -78,7 +78,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [7 - Game of Greed 2](401-7.md)  
 [8 - Game of Greed 3](401-8.md)  
 [9 - Game of Greed 4](401-9.md)  
-[](401-10.md)  
+[10 - Stacks and Queues](401-10.md)  
 [](401-11.md)  
 [](401-12.md)  
 [](401-13.md)  
