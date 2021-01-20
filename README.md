@@ -80,7 +80,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [9 - Game of Greed 4](401-9.md)  
 [10 - Stacks and Queues](401-10.md)  
 [11 - Data Analysis](401-11.md)  
-[](401-12.md)  
+[12 - Pandas](401-12.md)  
 [](401-13.md)  
 [](401-14.md)  
 [](401-15.md)  
