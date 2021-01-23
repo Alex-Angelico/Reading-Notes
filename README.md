@@ -81,7 +81,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [10 - Stacks and Queues](401-10.md)  
 [11 - Data Analysis](401-11.md)  
 [12 - Pandas](401-12.md)  
-[](401-13.md)  
+[13 - Linear Regressions](401-13.md)  
 [](401-14.md)  
 [](401-15.md)  
 [](401-16.md)  
