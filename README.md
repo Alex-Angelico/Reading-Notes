@@ -84,7 +84,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [13 - Linear Regressions](401-13.md)  
 [14 - Data Visualization](401-14.md)  
 [15 - Trees](401-15.md)  
-[](401-16.md)  
+[16 - Web Scraping](401-16.md)  
 [](401-17.md)  
 [](401-18.md)  
 [](401-19.md)  
