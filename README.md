@@ -86,7 +86,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [15 - Trees](401-15.md)  
 [](401-16.md)  
 [17 - Web Scraping](401-17.md)  
-[](401-18.md)  
+[18 - Cryptography](401-18.md)  
 [](401-19.md)  
 [](401-20.md)  
 [](401-21.md)  
