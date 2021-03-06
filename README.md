@@ -96,7 +96,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [](401-25.md)  
 [26 - Intro to Django](401-26.md)  
 [27 - Django Models](401-27.md)  
-[](401-28.md)  
+[28 - Django CRUD and Forms](401-28.md)  
 [](401-29.md)  
 [](401-30.md)  
 [](401-31.md)  
