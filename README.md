@@ -102,7 +102,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [31 - Django REST Framework & Docker](401-31.md)  
 [32 - Permissions & Postgresql](401-32.md)  
 [33 - Authentication & Production Server](401-33.md)  
-[](401-34.md)  
+[34 - API Deployment](401-34.md)  
 [](401-35.md)  
 [](401-36.md)  
 [](401-37.md)  
