@@ -104,7 +104,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [33 - Authentication & Production Server](401-33.md)  
 [34 - API Deployment](401-34.md)  
 [35 - Graphs](401-35.md)  
-[](401-36.md)  
+[36 - DSA Review](401-36.md)  
 [](401-37.md)  
 [](401-38.md)  
 [](401-39.md)  
