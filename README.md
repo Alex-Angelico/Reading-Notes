@@ -107,7 +107,7 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [36 - DSA Review](401-36.md)  
 [37 - React 1](401-37.md)  
 [38 - React 2](401-38.md)  
-[](401-39.md)  
+[39 - React 3](401-39.md)  
 [](401-40.md)  
 [](401-41.md)  
 [](401-42.md)  
