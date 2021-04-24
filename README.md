@@ -110,6 +110,6 @@ _This is not an exhaustive list of concepts and tools explored in this repositor
 [39 - React 3](401-39.md)  
 [](401-40.md)  
 [41 - React 4](401-41.md)  
-[](401-42.md)  
+[42 - Pythonisms](401-42.md)  
 [](401-43.md)  
 [](401-44.md)  
